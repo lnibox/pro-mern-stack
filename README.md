@@ -1,4 +1,4 @@
-### Deprecation notice
+### Deprecation notice [1]
 
 This github repository, and also the book that it is meant to accompany, have now been superceded by the *second edition* of the book and a corresponding new repository: [pro-mern-stack-2](https://github.com/vasansr/pro-mern-stack-2). The repository is no longer being maintained, but remains in GitHub as an archive.
 
